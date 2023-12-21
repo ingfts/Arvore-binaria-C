@@ -11,7 +11,7 @@
  <img src="https://skillicons.dev/icons?i=c" />
 
 ## Code language 🌎
-- Portuguese 
+>Portuguese 
 
 
   
